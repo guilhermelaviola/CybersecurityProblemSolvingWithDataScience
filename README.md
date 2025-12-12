@@ -1,2 +1,2 @@
-# AtividadesDescomplica
-Atividades de diversos módulos do curso de Ciência de Dados e CyberSecurity da Faculdade Descomplica.
+# Cybersecurity Problem Solving with Data Science
+My school homework from **#DescomplicaDigital** on Cybersecurity Problem Solving with Data Science.
